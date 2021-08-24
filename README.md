@@ -8,12 +8,20 @@ In this repository you will find the following website for Horiseon Marketing th
 
 - [Description](#description)
 - [License](#license)
-- [Questions](#Questions)
+- [Questions](#Questions) -[Screenshots](#screenshots)
 - [Links](#links)
+
+## Screenshots
+
+[![Screen-Shot-2021-08-24-at-12-25-20-PM.png](https://i.postimg.cc/5tFsf1xS/Screen-Shot-2021-08-24-at-12-25-20-PM.png)](https://postimg.cc/nsp41y9X)
+
+[![Screen-Shot-2021-08-24-at-12-25-37-PM.png](https://i.postimg.cc/3x3yKZYS/Screen-Shot-2021-08-24-at-12-25-37-PM.png)](https://postimg.cc/QHnNm1B1)
+
+[![Screen-Shot-2021-08-24-at-12-25-51-PM.png](https://i.postimg.cc/LsYmRqYQ/Screen-Shot-2021-08-24-at-12-25-51-PM.png)](https://postimg.cc/Nyc3kjxR)
 
 ## Links
 
-Application Link -https://github.com/jvprofits28/code-refactor
+Application Link -https://jvprofits28.github.io/code-refactor/
 
 ## License
 
